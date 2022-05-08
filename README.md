@@ -28,8 +28,17 @@
   <img src="https://user-images.githubusercontent.com/74362841/153612012-11b9973d-d6dc-4acb-b1a9-ae4c3052387a.png" height="49px" title="C">
   <img src="https://user-images.githubusercontent.com/74362841/156068480-6b323a4d-ccb1-4169-8b2c-ed5e92f13cf9.png" height="49px" title="SASS">
   <hr/>
+  
+
+  <img height="180cm" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mylennabra&theme=github_dark"/>
+      
+  <br>
+      
+  <img height="182cm" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mylennabra&theme=github_dark"/>
+  <img height="182cm" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mylennabra&theme=github_dark"/>
     
-  <img height="180cm" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mylennabra&theme=nord_dark"/>
+    
+
       
  ![Snake animation](https://github.com/mylennabra/mylennabra/blob/output/github-contribution-grid-snake.svg)
       </div>
