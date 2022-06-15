@@ -21,14 +21,27 @@
 
     
 <div align="center">
-    <h3 font-color="#2f80ed">LINGUAGENS E CONHECIMENTOS <img src="https://user-images.githubusercontent.com/74362841/153605718-bf001f00-af57-44f3-b9b3-d8a01c67e8a9.gif" height="20px"><h3>
-  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" height="50px" title="HTML5">
-  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" height="50px" title="CSS3">
-  <img src="https://www.beabadohtml.com.br/midias/imagens/js.png" height="50px" title="JavaScript">
-  <img src="https://user-images.githubusercontent.com/74362841/153612012-11b9973d-d6dc-4acb-b1a9-ae4c3052387a.png" height="49px" title="C">
-  <img src="https://user-images.githubusercontent.com/74362841/156068480-6b323a4d-ccb1-4169-8b2c-ed5e92f13cf9.png" height="49px" title="SASS">
-  <img src="https://user-images.githubusercontent.com/74362841/169630340-9d8ccfdc-d915-4110-8c8b-c61ae72d6576.png" height="47px" title="Bulma">
-  <hr/>
+  <section>
+      <h3>LINGUAGENS E CONHECIMENTOS <img src="https://user-images.githubusercontent.com/74362841/153605718-bf001f00-af57-44f3-b9b3-d8a01c67e8a9.gif" height="20px"><h3>
+      <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" height="50px" title="HTML5">
+      <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" height="50px" title="CSS3">
+      <img src="https://www.beabadohtml.com.br/midias/imagens/js.png" height="50px" title="JavaScript">
+      <img src="https://user-images.githubusercontent.com/74362841/153612012-11b9973d-d6dc-4acb-b1a9-ae4c3052387a.png" height="49px" title="C">
+      <img src="https://user-images.githubusercontent.com/74362841/156068480-6b323a4d-ccb1-4169-8b2c-ed5e92f13cf9.png" height="49px" title="SASS">
+      <img src="https://user-images.githubusercontent.com/74362841/169630340-9d8ccfdc-d915-4110-8c8b-c61ae72d6576.png" height="47px" title="Bulma">
+  </section>
+    
+<hr/>
+      
+  <section>      
+    <h3>ATUALMENTE ESTUDANDO 💻<h3>
+    <img src="https://user-images.githubusercontent.com/74362841/173726812-e64680df-076d-4fe5-9584-9064875b0d49.png" height="50px" title="React">
+    <img src="https://user-images.githubusercontent.com/74362841/173726856-eeea0ec7-62f0-419a-91e3-27e6a59cb2ed.png" height="50px" title="TypeScript">
+    <img src="https://user-images.githubusercontent.com/74362841/173726915-577fba18-a1df-47b4-a9d9-191fc1c2c92d.png" height="50px" title="Programação Orientada a Objetos">
+    <img src="https://user-images.githubusercontent.com/74362841/173726994-8c92cc5a-b527-48c9-a021-4290537846db.png" height="49px" title="JAVA">
+
+  </section>
+      <hr/>
 
 
   <img height="180cm" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mylennabra&theme=github_dark"/>
