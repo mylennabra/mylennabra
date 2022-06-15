@@ -15,6 +15,7 @@
   <img src="https://user-images.githubusercontent.com/74362841/153601628-d6039d11-13ce-44f4-8785-35d767e982e3.gif" height="30px">
   <a href="https://discord.gg/lolarilarilo#8906" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
+
       
 <hr/>
    
@@ -32,13 +33,14 @@
   </section>
     
 <hr/>
+
       
   <section>      
     <h3>ATUALMENTE ESTUDANDO 💻<h3>
-    <img src="https://user-images.githubusercontent.com/74362841/173726812-e64680df-076d-4fe5-9584-9064875b0d49.png" height="50px" title="React">
-    <img src="https://user-images.githubusercontent.com/74362841/173726856-eeea0ec7-62f0-419a-91e3-27e6a59cb2ed.png" height="50px" title="TypeScript">
-    <img src="https://user-images.githubusercontent.com/74362841/173726915-577fba18-a1df-47b4-a9d9-191fc1c2c92d.png" height="50px" title="Programação Orientada a Objetos">
-    <img src="https://user-images.githubusercontent.com/74362841/173726994-8c92cc5a-b527-48c9-a021-4290537846db.png" height="49px" title="JAVA">
+    <img src="https://user-images.githubusercontent.com/74362841/173727575-c39fb748-5ce1-4e4a-8dbf-58e1d4ebeee2.png" height="50px" title="React">
+    <img src="https://user-images.githubusercontent.com/74362841/173727465-6c6a1100-771b-4964-93c2-c02b804e716b.png" height="50px" title="TypeScript">
+    <img src="https://user-images.githubusercontent.com/74362841/173727684-9c181bba-7ec1-4394-b9a2-f154a401f5cf.png" height="50px" title="Programação Orientada a Objetos">
+    <img src="https://user-images.githubusercontent.com/74362841/173727606-b77c0ecf-c365-446d-a38d-980cd2534705.png" height="49px" title="JAVA">
 
   </section>
       <hr/>
@@ -47,6 +49,7 @@
   <img height="180cm" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mylennabra&theme=github_dark"/>
       
   <br>
+
       
   <img height="182cm" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mylennabra&theme=github_dark"/>
   <img height="182cm" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mylennabra&theme=github_dark"/>
