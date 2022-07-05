@@ -5,9 +5,10 @@
 </div>
 
 <div display="flex" align="center">
-  <h3 font-color="#2f80ed">FALE COMIGO :smiley: :sunglasses: :call_me_hand:<h3>
   <img src="https://user-images.githubusercontent.com/74362841/153601628-d6039d11-13ce-44f4-8785-35d767e982e3.gif" height="30px">
   <a href="https://instagram.com/mylennabra" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%2396346F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank"></a>
+  <img src="https://user-images.githubusercontent.com/74362841/153601628-d6039d11-13ce-44f4-8785-35d767e982e3.gif" height="30px">
+  <a href="https://codepen.io/mylennabra" target="_blank"><img src="https://img.shields.io/badge/Codepen-fff?style=for-the-badge&logo=codepen&logoColor=black"  target="_blank"></a>
   <img src="https://user-images.githubusercontent.com/74362841/153601628-d6039d11-13ce-44f4-8785-35d767e982e3.gif" height="30px">
   <a href="https://www.linkedin.com/in/mylenna-rodrigues-794553210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <img src="https://user-images.githubusercontent.com/74362841/153601628-d6039d11-13ce-44f4-8785-35d767e982e3.gif" height="30px">
